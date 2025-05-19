@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mecid-elhasan or Majd for English readers
 - 👀 I’m interested in ...language learning and programming
 - 🌱 I’m currently learning ...unity and c# and HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... multiplayer game development
 - 📫 How to reach me ...halabylilabad2@gmail.com
 
 <!---
